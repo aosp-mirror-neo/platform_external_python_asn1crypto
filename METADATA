@@ -15,6 +15,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/wbond/asn1crypto"
-    version: "1.5.1"
+    version: "835365ca6744c7afee793f050faf0a91ddb140b7"
+    closest_version: "1.5.1"
   }
 }
